@@ -1,0 +1,18 @@
+1. Study information, view lectures, webinars
+2. Search for the adeno-associated virus (AAV) genome on the NCBI server
+3. Download the FASTA file and open it in the programugene
+4. Search for a spike protein responsible for attacking antibodies when infected with Sars-Cov-2
+5. A protein was found On the NCBI server, downloaded and viewed in Eugene
+6. Formatting a protein sequence into a nucleotide sequence using the tBLASTn program and downloading it
+7. Search for restriction centers and select the desired restriction endonuclease (MspI) in the AAV virus
+8. Replacing the virus section between restriction sites with the SARS-Cov2 virus nucleotide sequence option 1
+9. Entering this sequence in BLAST, 30% match, realized that the wrong variant 1
+10. Search for epitopes based on the amino acid sequence Of the s-protein of the SARS-Cov-2 virus option 2
+11. Based on the table, we selected the lowest value (the largest relationship) and the optimal length, taking into account the length of the AAV virus nucleotide pairs
+12. Search for an identical nucleotide sequence in BLAST, 100% match with spike glycoprotein (recombinant coronavirus)
+13. Insertion of the recombinant coronavirus nucleotide sequence into the AAV gene
+14. Translation to the amino acid sequence (1292 amino acids > 900, which is required) (realized that the wrong way)
+15. New translation of an epitope into a nucleotide sequence using the MolBiol program (option 3)
+16. Insertion of the epitope itself (the nucleotide sequence) into the AAV virus gene
+17. Translation of the obtained nucleotide sequence into an amino acid sequence (MolBiol program)
+18. Obtaining 41 amino acids < 900 amino acids, which is required (final version)
